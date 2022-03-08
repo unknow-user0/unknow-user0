@@ -8,12 +8,9 @@
 
 </p>
 
-
-<p align="center"><br>
-  <a href="https://github.com/Frouk2">
-    <img src="https://api.lanyard.rest/v1/users/946048168011903117"/>
-     </a>
-</p>
-
-
 -----
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/Frouk2/count.svg" />
+</p>
