@@ -1,5 +1,12 @@
 ### <p align="center">📊 &nbsp;Statistiques</p>
 <br>
+
+<p align="center"><br>
+  <a href="https://github.com/Frouk2">
+    <img src="https://api.lanyard.rest/v1/users/946048168011903117"/>
+     </a>
+</p>
+
 <p align="center">
 <a href="https://github.com/Frouk2">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frouk2&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
