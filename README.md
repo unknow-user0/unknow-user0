@@ -9,3 +9,9 @@
 </p>
 
 -----
+
+<p align="center"><br>
+  <a href="https://github.com/Frouk2">
+    <img src="https://api.lanyard.rest/v1/users/946048168011903117"/>
+     </a>
+</p>
